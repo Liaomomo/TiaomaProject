@@ -3,7 +3,7 @@
 
 
 运行环境：
-java 1.8 + tomcat 8.0 + mysql 5.7.21 + core 3.3.0 + Echart
+java 1.8 + tomcat 8.0 + mysql 5.7.21 + core 3.3.0 + Echart；开发工具：eclipse 、HBuilder
 
 
 项目文件说明：
